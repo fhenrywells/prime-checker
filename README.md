@@ -10,4 +10,6 @@ I find prime numbers, and the concept of prime factorization as a way of discove
 # demo
 https://github.com/user-attachments/assets/1f0eafe1-8b9e-4c18-9e02-30904d12132f
 
+# more on calculating massive primes
 
+https://www.mersenne.org/primes/?press=M136279841
